@@ -17,7 +17,7 @@ UsefulNumbers is a simple Python script that helps you find all the "useful numb
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/UsefulNumbers.git
+   git clone https://github.com/Fantonos/UsefulNumbers
     ```
 
 2. Navigate to the project directory:
